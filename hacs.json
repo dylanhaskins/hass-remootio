@@ -1,0 +1,7 @@
+{
+  "filename": "hass-remootio.zip",
+  "homeassistant": "2023.9",
+  "name": "Remootio Home Assistant",
+  "render_readme": true,
+  "zip_release": true
+}
