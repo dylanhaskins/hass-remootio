@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "aioremootio"
+version = "1.4"
+authors = [{ name = "TritonNet", email = "info@kushan.me" }]
+description = "Asynchronous Python client for interfacing with Remootio devices."
+readme = "README.md"
+license = { file = "LICENSE" }  # Ensure you have a LICENSE file in your repo
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = []
+requires-python = ">=3.7"
