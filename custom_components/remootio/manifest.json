@@ -4,7 +4,7 @@
   "integration_type": "device",
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/remootio",
-  "version": "1.4",
+  "version": "2.2",
   "requirements": ["aioremootio @ git+https://github.com/TritonNet/hass-remootio.git"],
   "ssdp": [],
   "homekit": {},

@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='aioremootio',
-    version='2.0',
+    name='remootio',
+    version='2.2',
     author='TritonNet',
     author_email='info@kushan.me',
     description='Asynchronous Python client for interfacing with Remootio devices.',

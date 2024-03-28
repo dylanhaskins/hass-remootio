@@ -3,8 +3,8 @@ requires = ["setuptools>=42", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "aioremootio"
-version = "1.4"
+name = "remootio"
+version = "2.2"
 authors = [{ name = "TritonNet", email = "info@kushan.me" }]
 description = "Asynchronous Python client for interfacing with Remootio devices."
 readme = "README.md"
